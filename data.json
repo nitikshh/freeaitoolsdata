@@ -31,6 +31,14 @@
       "pageUrl": "https://artificialguybr-video-dubbing.hf.space",
       "company": "Hugging Face Spaces",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
+    {
+      "name": "Video Transcription and Summary Maker",
+      "description": "This is a Video Transcription and Summary Generator tool from a local video or from a youtube video just in Few Minutes.",
+      "imageUrl": "https://www.cogitotech.com/wp-content/uploads/2022/12/Video-Transcription-1.webp",
+      "pageUrl": "https://artificialguybr-video-transcription-smart-summary.hf.space",
+      "company": "Hugging Face Spaces",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     }
   ]
 }

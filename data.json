@@ -39,6 +39,14 @@
       "pageUrl": "https://artificialguybr-video-transcription-smart-summary.hf.space",
       "company": "Hugging Face Spaces",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
+    {
+      "name": "MidJourney",
+      "description": "This is a Text to Image with High Quality that create images just in couple of  Minutes.",
+      "imageUrl": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/08/midjourney-tools-tips-for-photographers-photography-photo-realistic.png",
+      "pageUrl": "https://mukaist-midjourney.hf.space",
+      "company": "Hugging Face Spaces",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     }
   ]
 }

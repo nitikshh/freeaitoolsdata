@@ -45,6 +45,15 @@
       "usage":"unlimited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     },
+     {
+      "name": "Text To Speech",
+      "description": "This is a Text To Speech tool, converts text to speech just in couple of Minutes.",
+      "imageUrl": "https://miro.medium.com/max/1400/1*yDgVdq8--I5pUyGodlzswg.jpeg",
+      "pageUrl": "https://innoai-edge-tts-text-to-speech.hf.space",
+      "company": "Hugging Face Spaces",
+       "usage":"unlimited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
     {
       "name": "Video Dubbing",
       "description": "This is a Lifetime Free Video Bubbing Tool that just Dub your Video of max 26sec in just Few Minutes.",

@@ -36,6 +36,15 @@
        "usage":"unlimited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     },
+      {
+      "name": "Image Upscaler",
+      "description": "This is a Image Upscaler, takes some time but works good.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8-wRo0eHcQIqzHR-AGICJoqUTJU-vWKzVA&s",
+      "pageUrl": "https://groqcin-qoc-photo-upscaler-restoration-enhancer-ai.static.hf.spacee",
+      "company": "Hugging Face Spaces",
+      "usage":"unlimited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
     {
       "name": "Video Dubbing",
       "description": "This is a Lifetime Free Video Bubbing Tool that just Dub your Video in just Few Minutes.",
@@ -63,5 +72,6 @@
        "usage":"limited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     }
+  
   ]
 }

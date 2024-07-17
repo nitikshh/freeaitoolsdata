@@ -38,9 +38,18 @@
     },
       {
       "name": "Image Upscaler",
-      "description": "This is a Image Upscaler, takes some time but works good.",
+      "description": "This is a Image Upscaler, takes only just few minutes.",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8-wRo0eHcQIqzHR-AGICJoqUTJU-vWKzVA&s",
       "pageUrl": "https://groqcin-qoc-photo-upscaler-restoration-enhancer-ai.static.hf.space",
+      "company": "Hugging Face Spaces",
+      "usage":"unlimited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
+      {
+      "name": "Auto Subtitle Generator",
+      "description": "This is a Free Auto Subtitle Generator, takes some time but works good.",
+      "imageUrl": "https://www.animaker.com/static_2.0/img/subtitlegenerator/how-to-2@2x.webp",
+      "pageUrl": "https://vvallabh-ai-powered-subtitle-generator.hf.space",
       "company": "Hugging Face Spaces",
       "usage":"unlimited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."

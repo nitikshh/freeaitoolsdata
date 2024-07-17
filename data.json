@@ -54,6 +54,7 @@
        "usage":"limited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     },
+  
     {
       "name": "Video Transcription and Summary Maker",
       "description": "This tool takes a local video or video from a youtube url and done in just Few Minutes.",
@@ -71,7 +72,15 @@
       "company": "Hugging Face Spaces",
        "usage":"limited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
+    {
+      "name": "Image Generator (18+)",
+      "description": "This is Image Generator (18+), creates images in just Few Minutes.",
+      "imageUrl": "https://www.alucare.fr/wp-content/uploads/2023/12/Top-10-des-generateurs-dimages-IA-NSFW-gratuit.jpg",
+      "pageUrl": "https://gokaygokay-ponyrealism.hf.space",
+      "company": "Hugging Face Spaces",
+       "usage":"limited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     }
-  
   ]
 }

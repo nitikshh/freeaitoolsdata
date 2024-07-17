@@ -53,6 +53,15 @@
       "company": "Hugging Face Spaces",
        "usage":"limited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
+    {
+      "name": "Background Remove",
+      "description": "This is a Background Remover tool , removes bg in just a minute.",
+      "imageUrl": "https://i.ytimg.com/vi/UGiiFCPfDwg/maxresdefault.jpg",
+      "pageUrl": "https://kvikontent-remove-bg.hf.space",
+      "company": "Hugging Face Spaces",
+       "usage":"unlimited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     }
   ]
 }

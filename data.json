@@ -116,6 +116,15 @@
       "company": "Hugging Face Spaces",
        "usage":"limited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
+    {
+      "name": "Real Image Generator (18+)",
+      "description": "This is Image Generator (18+), creates images in just Few Minutes.",
+      "imageUrl": "https://www.alucare.fr/wp-content/uploads/2023/12/Top-10-des-generateurs-dimages-IA-NSFW-gratuit.jpg",
+      "pageUrl": "https://nsfwalex-realism-pony-card.hf.space",
+      "company": "Hugging Face Spaces",
+       "usage":"limited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     }
   ]
 }

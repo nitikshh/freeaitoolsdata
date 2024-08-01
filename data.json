@@ -45,6 +45,15 @@
       "usage":"unlimited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
     },
+     {
+      "name": "High Quality Image Upscaler",
+      "description": "This is a High Quality Image Upscaler, upscales in just a minute.",
+      "imageUrl": "https://petapixel.com/assets/uploads/2021/08/enhancefeattt.jpg",
+      "pageUrl": "https://finegrain-finegrain-image-enhancer.hf.space",
+      "company": "Hugging Face Spaces",
+      "usage":"unlimited",
+      "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
+    },
       {
       "name": "Auto Subtitle Generator",
       "description": "This is a Free Auto Subtitle Generator, takes some time but works good.",

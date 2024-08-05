@@ -58,7 +58,7 @@
       "name": "Auto Subtitle Generator",
       "description": "This is a Free Auto Subtitle Generator, takes some time but works good.",
       "imageUrl": "https://www.animaker.com/static_2.0/img/subtitlegenerator/how-to-2@2x.webp",
-      "pageUrl": "https://vvallabh-ai-powered-subtitle-generator.hf.space",
+      "pageUrl": "https://colab.research.google.com/drive/1gJ7f5E9d0ObDFTnvFZgc3jBscpiAlgOp",
       "company": "Hugging Face Spaces",
       "usage":"unlimited",
       "text": "This Models is taken from HuggingFace Spaces, Decelared to free Use."
